@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I'm just starting out in the world of programming, and I want to learn as much as I possibly can. In particular, I'm interested in learning how to perform machine learning and data science. I hope you enjoy coming along on this journey with me. I really hope today is treating you well.  
+yo yo yo
   
 
 <br/>  
@@ -18,7 +18,7 @@ I'm just starting out in the world of programming, and I want to learn as much a
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Python and JavaScript🔭  
+- 🌱 breathing unfortunately 🔭  
 
 
 </td><td valign="top" width="50%">
