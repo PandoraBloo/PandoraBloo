@@ -1,4 +1,4 @@
-## Hey 👋, Daniel Gonzalez  
+## Hey 👋, Yuri
   
 
 <a href="https://github.com/PandoraBloo" target="_blank">
